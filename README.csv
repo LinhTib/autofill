@@ -1,0 +1,96 @@
+### AUTOFILL PROFILES ###,,,,,,
+Profile ID,Name,Site,Hotkey,,,
+c1,Le Thi Nhat Khanh,business.facebook.com/help/contact/189823244398879,,,,
+c2,Le Thi Nhat Khanh 2,business.facebook.com/help/contact/189823244398879,,,,
+c7,Le Thuy Thuong (mau 1),business.facebook.com/help/contact/189823244398879,,,,
+c8,Le Thuy Thuong (mau 2),business.facebook.com/help/contact/189823244398879,,,,
+c3,Kháng VPCS (mẫu 1),business.facebook.com/help/contact/2026068680760273,,,,
+c4,Kháng VPCS (mẫu 2),business.facebook.com/help/contact/2026068680760273,,,,
+c5,Kháng VPCS (mẫu 3),business.facebook.com/help/contact/2026068680760273,,,,
+c6,Thanh toán bị treo (mẫu 1),business.facebook.com/help/contact/161710477317189/,,,,
+### AUTOFILL RULES ###,,,,,,
+Rule ID,Type,Name,Value,Site,Mode,Profile
+r29,3,"^is_rep_submitted$","10","",0,c3
+r30,0,"^Field1524925354431785$","Chúng tôi sử dụng tài khoản quảng cáo cho hoạt động kinh doanh của mình. Tuy nhiên, nhiều khi mình chỉ post 1 page quảng cáo và chạy thử đã bị khóa chính sách trong khi mình tuân thủ đầy đủ các quy định của Facebook, mình cũng không hiểu lý do là gì nữa. Công việc rất khó khăn khi mình cứ liên tục gặp phải vấn đề này. Mình hi vọng đội hỗ trợ cho mình xem xét lại trường hợp này và re-active lại tài khoản này giúp mình để mình có thể tiếp tục hoạt động kinh doanh. Mình xin chân thành cảm ơn","",0,c3
+r31,3,"^is_rep_submitted$","10","",0,c4
+r32,0,"^Field1524925354431785$","Chúng tôi kinh doanh các mặt hàng gia dụng và tuân thủ các chính sách, điều khoản của Facebook về quảng cáo, nhưng liên tục gặp phải vấn đề về vi phạm chính sách không lý do. Mình gặp trường hợp này rất nhiều và rất bế tắc để có thể tiếp tục kinh doanh, trong khi Facebook là nguồn khách hàng duy nhất của mình. Mong team có thể hỗ trợ mình xem xét lại tài khoản này và re-active giúp mình. Mình xin chân thành cảm ơn","",0,c4
+r33,3,"^is_rep_submitted$","10","",0,c5
+r34,0,"^Field1524925354431785$","Mong team xem xết lại tài khoản quảng cáo này của mình, mình tin rằng mình không vi phạm bất kì điều khoản Quảng cáo của Facebook trong lúc hoạt động. Mong nhận được hỗ trợ và phản hồi từ Team Facebook, mình xin chân thành cảm ơn","",0,c5
+r15,0,"^Field1600392706920727$","Le Thi  Nhat Khanh","",0,c2
+r16,0,"^Field1302732743084312$","dolphinx91@yahoo.com","",0,c2
+r17,0,"^Field154754114968051$","Thanh toán hóa đơn Facebook","",0,c2
+r18,0,"^Field1820880694799977$","Việt Nam","",0,c2
+r19,0,"^Field1203968126313554$","Việt Nam","",0,c2
+r20,2,"^IDUpload\[\]$","","",1,c2
+r21,3,"^Field794709457313924$","10","",0,c2
+r22,3,"^PaymentMethod\[\]$","10","",0,c2
+r23,3,"^OwnerFIOnFile$","10","",0,c2
+r24,3,"^WhoIsOwnerofFile$","00001","",0,c2
+r25,3,"^PurchasedAds$","10","",0,c2
+r26,3,"^IrregularSpend$","01","",0,c2
+r27,3,"^BinIPMismatch$","01","",0,c2
+r28,0,"^AdsPolicy$","Tìm kiếm khách hàng tiềm năng qua các phễu khách hàng được tạo từ các post tương tác","",0,c2
+r1,0,"^Field1600392706920727$","Le Thi  Nhat Khanh","",0,c1
+r2,0,"^Field1302732743084312$","dolphinx91@yahoo.com","",0,c1
+r3,0,"^Field154754114968051$","Trả tiền quảng cáo Facebook","",0,c1
+r4,0,"^Field1820880694799977$","Việt Nam","",0,c1
+r5,0,"^Field1203968126313554$","Việt Nam","",0,c1
+r6,2,"^IDUpload\[\]$","","",0,c1
+r7,3,"^Field794709457313924$","10","",0,c1
+r8,3,"^PaymentMethod\[\]$","10","",0,c1
+r9,3,"^OwnerFIOnFile$","10","",0,c1
+r10,3,"^WhoIsOwnerofFile$","00001","",0,c1
+r11,3,"^PurchasedAds$","10","",0,c1
+r12,3,"^IrregularSpend$","01","",0,c1
+r13,3,"^BinIPMismatch$","01","",0,c1
+r14,0,"^AdsPolicy$","Chúng tôi tìm kiếm khách hàng tiềm năng thông qua các chiến dịch chuyển đổi trên Facebook ","",0,c1
+r35,0,"^Field491669967548638$","524436","",0,c6
+r36,3,"^ActionWCard$","10","",0,c6
+r37,3,"^TypeofPayment$","10","",0,c6
+r38,3,"^AreYouOwner$","10","",0,c6
+r39,3,"^UsedMethodBefore$","01","",0,c6
+r40,0,"^AdditionalDetails$","Tôi đang cần thanh toán hóa đơn Facebook và không thể thực hiện thanh toán được vì không thể cập nhật hay chỉnh sửa bất kỳ được với Phương thức thanh toán. Mong team support hỗ trợ mình trong trường hợp này. Xin chân thành cảm ơn","",0,c6
+r41,0,"^Field1600392706920727$","Le Thuy Thuong","",0,c7
+r42,0,"^Field1302732743084312$","lethuythuong1991@outlook.com.vn","",0,c7
+r43,0,"^Field154754114968051$","Trả tiền quảng cáo Facebook","",0,c7
+r44,0,"^Field1820880694799977$","Việt Nam","",0,c7
+r45,0,"^Field1203968126313554$","Việt Nam","",0,c7
+r46,0,"^IDUpload\[\]$","","",0,c7
+r47,3,"^Field794709457313924$","10","",0,c7
+r48,3,"^PaymentMethod\[\]$","10","",0,c7
+r49,3,"^OwnerFIOnFile$","10","",0,c7
+r50,3,"^WhoIsOwnerofFile$","00001","",0,c7
+r51,3,"^PurchasedAds$","10","",0,c7
+r52,3,"^IrregularSpend$","01","",0,c7
+r53,3,"^BinIPMismatch$","01","",0,c7
+r54,0,"^AdsPolicy$","Chúng tôi tìm kiếm khách hàng tiềm năng thông qua các chiến dịch chuyển đổi trên Facebook ","",0,c7
+r56,0,"^Field1600392706920727$","Le Thuy Thuong","",0,c8
+r57,0,"^Field1302732743084312$","lethuythuong1991@outlook.com.vn","",0,c8
+r58,0,"^Field154754114968051$","Trả tiền quảng cáo Facebook","",0,c8
+r59,0,"^Field1820880694799977$","Việt Nam","",0,c8
+r60,0,"^Field1203968126313554$","Việt Nam","",0,c8
+r61,0,"^IDUpload\[\]$","","",0,c8
+r62,3,"^Field794709457313924$","10","",0,c8
+r63,3,"^PaymentMethod\[\]$","10","",0,c8
+r64,3,"^OwnerFIOnFile$","10","",0,c8
+r65,3,"^WhoIsOwnerofFile$","00001","",0,c8
+r66,3,"^PurchasedAds$","10","",0,c8
+r67,3,"^IrregularSpend$","01","",0,c8
+r68,3,"^BinIPMismatch$","01","",0,c8
+r69,0,"^AdsPolicy$","Tìm kiếm khách hàng tiềm năng qua các phễu khách hàng được tạo từ các post tương tác","",0,c8
+### AUTOFILL OPTIONS ###,,,,,,
+advanced,"[]",,,,,
+exceptions,"[]",,,,,
+backup,0,30,,,,
+manual,0,,,,,
+delay,1,2,,,,
+labelmatch,0,,,,,
+overwrite,0,,,,,
+vars,1,,,,,
+sound,1,,,,,
+voice,0,1,,,,
+debug,0,,,,,
+mask,1,,,,,
+scale,1,,,,,
+menu,1,,,,,
+autoimport,0,https://1drv.ms/u/s!At_81tg_COPikFHoc8Q_hssgABGD,,,,
